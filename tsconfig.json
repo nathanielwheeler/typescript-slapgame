@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./game/build",
+        "allowJs": true,
+        "target": "es5"
+    },
+    "include": [
+        "./game/src/**/*"
+    ]
+}
